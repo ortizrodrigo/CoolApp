@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.purpleAccent,
           title: const Text('TEST APP'),
         ),
       ),
